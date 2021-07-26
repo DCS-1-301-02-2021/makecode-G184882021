@@ -1,0 +1,22 @@
+{
+    "image3": {
+        "data": "hwQQABAAAAAKcOAOqgcOzsoADAegAMAACsAMcBEREXAA4AARERERAQABEBERER/BEAER8f8R8XEQARERER/xAQDxEREREREBAPEREREREQEcARERERERARABER8R8RHh4AEQ8fEfEeHuoBARERERAQCnDBAREREABwDuAHcRAaegBwAOcMAAqg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "gomi"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiIgIAAgAAIEJCIgAgACAiRFQlACAgIkJEVZkAAEIkJFSVmQAAAEJEVFUlAAAAIkJCJAIAAAAAIiIiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "hi"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAQEBAAAAABAQkJCAAAAAM3M/A0AAAAA0M3c/wAAAAAA3bzd3Q0AAACwvN3dAAAAALC83QAAAAAA0LwNAAAAAADQvAAAAAAAANC8AAAAAAAAgLwAAAAAAACQvAAAAAAAAJC8AAAAAAAAAAwAAAAAAAAAAgAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "hikouki"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
